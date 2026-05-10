@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HotRedTabasco from Berlin, Germany
-- 👀 I’m interested in Delphi/RAD-Studio
+- 👀 I’m interested in Delphi/RAD-Studio, DwarfLab Smart Telescopes
 - 📫 How to reach me ... comes later
 
 <!---
